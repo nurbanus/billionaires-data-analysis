@@ -2,7 +2,6 @@ dataset:
 
 https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset
 
-ps: If you want analysis in Turkish, please send an e-mail.
 
 # interpretation of outputs
 
