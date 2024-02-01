@@ -1,6 +1,6 @@
 https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset
 
-# The analyzes I made
+# The analyzes I made:
 
 
 1)Wealth distribution analysis: Explore the distribution of billionaires' wealth across different industries, countries, and regions.
