@@ -1,4 +1,4 @@
-
+not: proje , word dosyası halinde "proje" isminde eklenilmiştir.
 dataset:
 https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset
 
