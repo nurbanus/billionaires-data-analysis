@@ -1,5 +1,6 @@
 not: proje , word dosyası halinde "proje" isminde eklenilmiştir.
-dataset:
+
+### dataset:
 https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset
 
 ## Kullandığım paketler:
